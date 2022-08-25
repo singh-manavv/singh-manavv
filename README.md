@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2DYTUD)
 ### Github Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-manavv&theme=dracula&show_icons=true&icon_color=48cae4&title_color=48cae4&bg_color=252422)]([![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2DYTUD))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-manavv&theme=dracula&show_icons=true&icon_color=48cae4&title_color=48cae4&bg_color=252422)]([![ko-fi](https://ko-fi.com/singhmanav)
 
 
 

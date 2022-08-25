@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2DYTUD)
+### Github Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-manavv&theme=dracula&show_icons=true&icon_color=ffb703&title_color=ffb703&bg_color=495057)](https://github.com/anuraghazra/github-readme-stats)
+
+
+

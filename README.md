@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Manav
 ```
 Fivem Developer
-Developer at QBCore Framework @qbcore-framework
+Developer at QBCore Framework 
 ```
 <!--
 **singh-manavv/singh-manavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

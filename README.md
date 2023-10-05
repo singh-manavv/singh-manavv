@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 ### Github Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-manavv&theme=dracula&show_icons=true)](https://ko-fi.com/singhmanav)
 
-###
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=singh-manavv&repo=DataScience&theme=nightowl)](https://github.com/singh-manavv/DataScience)
 

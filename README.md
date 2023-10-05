@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 -->
 ### [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2DYTUD)
 ### 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh-manavv)](https://github.com/singh-manavv/github-readme-stats)
 
 ### Github Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-manavv&theme=dracula&show_icons=true&icon_color=fca311&title_color=fca311&bg_color=252422)](https://ko-fi.com/singhmanav)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-manavv&theme=gotham&show_icons=true&icon_color=fca311&title_color=fca311&bg_color=252422)](https://ko-fi.com/singhmanav)
 
 
 

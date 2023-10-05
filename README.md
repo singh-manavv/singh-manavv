@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2DYTUD)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh-manavv&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh-manavv&layout=compact&theme=nightowl)
 ### Github Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-manavv&theme=dracula&show_icons=true)](https://ko-fi.com/singhmanav)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-manavv&theme=nightowl&show_icons=true)](https://ko-fi.com/singhmanav)
 
 

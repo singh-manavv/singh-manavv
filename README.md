@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2DYTUD)
 
 ### Github Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-manavv&theme=gotham&show_icons=true)](https://ko-fi.com/singhmanav)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-manavv&theme=dracula&show_icons=true)](https://ko-fi.com/singhmanav)
 
 
 

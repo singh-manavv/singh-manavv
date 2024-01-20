@@ -1,5 +1,6 @@
 ### Hi there 👋 , I'm Manav
 ```
+Python Developer
 Fivem Developer
 Developer at QBCore Framework 
 ```

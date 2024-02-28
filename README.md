@@ -1,8 +1,6 @@
 ### Hi there 👋 , I'm Manav
 ```
-Python Developer
-Fivem Developer
-Developer at QBCore Framework 
+Data Science enthusiast
 ```
 <!--
 **singh-manavv/singh-manavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
